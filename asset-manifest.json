@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TuesdayHW/static/css/main.0b753363.css",
+    "main.js": "/TuesdayHW/static/js/main.5339f983.js",
+    "static/js/787.66cb4309.chunk.js": "/TuesdayHW/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/TuesdayHW/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/TuesdayHW/index.html",
+    "main.0b753363.css.map": "/TuesdayHW/static/css/main.0b753363.css.map",
+    "main.5339f983.js.map": "/TuesdayHW/static/js/main.5339f983.js.map",
+    "787.66cb4309.chunk.js.map": "/TuesdayHW/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b753363.css",
+    "static/js/main.5339f983.js"
+  ]
+}
